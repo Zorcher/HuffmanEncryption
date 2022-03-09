@@ -1,0 +1,6 @@
+# ignore solution setting files
+*.suo
+
+# ignore Debug and Release Folders
+Debug/
+Release/
